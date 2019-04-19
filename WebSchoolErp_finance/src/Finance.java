@@ -21,7 +21,9 @@ public class Finance {
 	int r = g++ + g++;
 	System.out.println(r);
 	System.out.println("...............................");
-	
+	//third commit
+	System.out.println(r);
+	System.out.println("...............................");
 	}
 	
 
