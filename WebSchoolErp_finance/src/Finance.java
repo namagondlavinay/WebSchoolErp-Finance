@@ -30,6 +30,8 @@ public class Finance {
 	System.out.println("ghjkjghj");
 	//6 th commit
 	System.out.println("kjhgf");
+	//7th commit
+	System.out.println("harsha is chittor king");
 	}
 	
 	
